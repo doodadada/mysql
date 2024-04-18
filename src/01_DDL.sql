@@ -118,4 +118,4 @@ where a.bnum = b.booknum and a.mnum=c.membernum;
 
 select * from rentDetail;
  select *  from memberlist where membernum = 1; 
-    
+    select * from rentDetail order by numseq =13;
